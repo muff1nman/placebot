@@ -1,8 +1,8 @@
 {
-	"url": "https://raw.githubusercontent.com/zyansheep/placebot/master/image.png",
+	"url": "https://raw.githubusercontent.com/muff1nman/placebot/start-small/image.png",
 	"x": 1387,
 	"y": 1233,
-	"width": 100,
-	"height": 45,
+	"width": 65,
+	"height": 32,
 	"stableVersion": 1.2
 }
