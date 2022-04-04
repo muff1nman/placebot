@@ -40,7 +40,7 @@ var minInterval = 302100;
 var maxInterval = 1000000000;
 
 function update_design(cont) {
-	fetch("https://raw.githubusercontent.com/muff1nman/placebot/master/design.json", {cache: "no-store"}).then((resp) => {
+	fetch("https://raw.githubusercontent.com/muff1nman/placebot/start-small/design.json", {cache: "no-store"}).then((resp) => {
 		if (!resp.ok) {
 			throw new Error("HTTP error " + resp.status);
 		}
